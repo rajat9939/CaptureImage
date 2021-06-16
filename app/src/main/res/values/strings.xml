@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CaptureImage</string>
+    <string name="setting_title">Setting</string>
+    <string name="setting_picture_click_by_blinking_eye" translatable="false">blinking_eye</string>
+    <string name="setting_picture_click_by_blinking_eye_label">Blinking Eye</string>
+    <string name="setting_picture_click_by_smiling_label">Smiling</string>
+    <string name="setting_picture_click_by_smiling" translatable="false">smiling</string>
+    <string name="setting_picture_click_key">picture_click</string>
+    <string name="setting_picture_click_title">"Enable Picture Click Mode"</string>
+</resources>

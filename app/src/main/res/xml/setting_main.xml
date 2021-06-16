@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/setting_title">
+
+    <PreferenceCategory
+        android:title="@string/setting_picture_click_title">
+
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="@string/setting_picture_click_by_blinking_eye"
+            android:title="@string/setting_picture_click_by_blinking_eye_label"
+            android:summaryOn="Take picture while blinking eye"
+            android:summaryOff="Disabled Eye Blinking Mode" />
+
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="@string/setting_picture_click_by_smiling"
+            android:title="@string/setting_picture_click_by_smiling_label"
+            android:summaryOn="Take picture while smiling"
+            android:summaryOff="Disabled Smiling Mode" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

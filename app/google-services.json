@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "153445389421",
+    "project_id": "captureimage-7794a",
+    "storage_bucket": "captureimage-7794a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153445389421:android:7742d1d84212385df2db64",
+        "android_client_info": {
+          "package_name": "com.example.captureimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153445389421-5rd2650n44nu212t35f47ht9c4tndii3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.captureimage",
+            "certificate_hash": "f596c8c54d40cdb6be407df4a319e006695b0079"
+          }
+        },
+        {
+          "client_id": "153445389421-1oj70n9sv0lj1aqcfous56j8aeuu99a7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3DW9eA1eqL5Qi-z6a25YHP-Aj-Sp3OGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153445389421-1oj70n9sv0lj1aqcfous56j8aeuu99a7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

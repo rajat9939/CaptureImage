@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="setting_picture_click_labels">
+        <item>@string/setting_picture_click_by_blinking_eye_label</item>
+        <item>@string/setting_picture_click_by_smiling_label</item>
+    </string-array>
+
+    <string-array name="setting_picture_click_values">
+        <item>@string/setting_picture_click_by_blinking_eye</item>
+        <item>@string/setting_picture_click_by_smiling</item>
+    </string-array>
+
+
+</resources>
